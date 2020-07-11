@@ -1,0 +1,28 @@
+
+
+h1
+{
+    display: inline-block;
+    margin: 50px;
+    color: white;
+}
+button
+
+{
+    height: 60px;
+    width: 100px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: large;
+    color: darkcyan;
+    border-radius: 10%;
+    border: none;
+}
+
+
+body
+{
+    text-align: center;
+    background-color: darkcyan;
+}
+
